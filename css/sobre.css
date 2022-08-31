@@ -3,7 +3,7 @@
     padding-bottom: 3rem;
 }
 
-.sobre__titulo {
+.sobre_titulo {
     color: var(--cinza-escuro);
     font-weight: 700;
     font-size: 1.5rem;
@@ -14,18 +14,18 @@
     margin-bottom: 1.25rem;
 }
 
-.sobre__texto {
+.sobre_texto {
     line-height: normal;
 
     margin-bottom: 1rem;
 }
 
-.sobre__texto--destaque {
+.sobre_texto--destaque {
     color: var(--cinza-escuro);
     font-weight: 700;
 }
 
-.sobre__plataformas {
+.sobre_plataformas {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
